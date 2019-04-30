@@ -1,0 +1,17 @@
+@font-face{
+font-family: 'Roboto';
+src: url('../fonts/Roboto.woff2');
+src: url('../fonts/Roboto.woff') format('woff');
+}
+
+@font-face{
+font-family: 'ProximaNova';
+src: url('../fonts/ProximaNova-Regular.eot');
+src: url('../fonts/ProximaNova-Regular.woff') format('woff');
+}
+
+@font-face{
+font-family: 'ProximaNova-Bold';
+src: url('../fonts/ProximaNova-Bold.eot');
+src: url('../fonts/ProximaNova-Bold.woff') format('woff');
+}

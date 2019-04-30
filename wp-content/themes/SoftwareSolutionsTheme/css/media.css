@@ -1,0 +1,446 @@
+@media (min-width: 2450px) and (max-width: 2560px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -255px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -270px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -255px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -205px;
+	}
+	body {
+		background-size: contain;
+	}
+	section#main-contact-form {
+	    margin-top: -250px;
+	    background-size: cover;
+	    background-position: center;
+	} 
+}
+
+@media (min-width: 2300px) and (max-width: 2450px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -180px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -195px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -185px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -140px;
+	}
+	body {
+		background-size: contain;
+	}
+	section#main-contact-form {
+	    margin-top: -175px;
+	    background-size: cover;
+	    background-position: center;
+	} 
+}
+
+@media (min-width: 2200px) and (max-width: 2300px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -140px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -155px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -150px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -105px;
+	}
+	body {
+		background-size: contain;
+	}
+	section#main-contact-form {
+	    margin-top: -150px;
+	    background-size: cover;
+	    background-position: center;
+	} 
+}
+
+@media (min-width: 2100px) and (max-width: 2200px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -125px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -145px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -145px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -115px;
+	}
+	body {
+		background-size: contain;
+	}
+	section#main-contact-form {
+	    margin-top: -150px;
+	    background-size: cover;
+	    background-position: center;
+	} 
+}
+
+@media (min-width: 2000px) and (max-width: 2100px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -110px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -135px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -145px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -125px;
+	}
+	body {
+		background-size: contain;
+	}
+	section#main-contact-form {
+	    margin-top: -150px;
+	    background-size: cover;
+	    background-position: center;
+	} 
+}
+
+@media (min-width: 1900px) and (max-width: 2000px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -110px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -140px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -150px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -140px;
+	}
+	body {
+		background-size: contain;
+	}
+	section#main-contact-form {
+	    margin-top: -150px;
+	    background-size: cover;
+	    background-position: center;
+	} 
+}
+
+@media (min-width: 1790px) and (max-width: 1900px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -95px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -130px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -145px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -140px;
+	}
+	body {
+		background-size: contain;
+	}
+	section#main-contact-form {
+	    margin-top: -150px;
+	    background-size: cover;
+	    background-position: center;
+	} 
+}
+
+@media (min-width: 1700px) and (max-width: 1790px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -30px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -65px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -85px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -85px;
+	}
+}
+
+@media (min-width: 1600px) and (max-width: 1700px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -15px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -55px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -80px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -85px;
+	}
+}
+
+@media (min-width: 1500px) and (max-width: 1600px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: -10px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -50px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -75px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -85px;
+	}
+}
+
+@media (min-width: 1400px) and (max-width: 1500px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: 5px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -35px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -70px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -85px;
+	}
+}
+
+@media (min-width: 1300px) and (max-width: 1400px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: 15px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -30px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -65px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -80px;
+	}
+}
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: 25px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -20px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -55px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -80px;
+	}
+}
+@media (min-width: 1100px) and (max-width: 1200px) {
+
+	section#nav-bubbles .bubble-one {
+		position: absolute;
+		z-index: 9999;
+		right: 660px;
+	    top: 35px;
+	}
+	section#nav-bubbles .bubble-two {
+		position: absolute;
+		z-index: 9999;
+		right: 460px;
+	    top: -10px;
+	}
+	section#nav-bubbles .bubble-three {
+		position: absolute;
+		z-index: 9999;
+		right: 260px;
+	    top: -50px;
+	}
+	section#nav-bubbles .bubble-four {
+		position: absolute;
+		z-index: 9999;
+		right: 60px;
+	    top: -75px;
+	}
+}
